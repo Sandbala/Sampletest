@@ -1,0 +1,361 @@
+[
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527843853770,
+            "changeTime": 1527843853770,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527843853786,
+            "changeTime": 1527843853786,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527846852627,
+            "changeTime": 1527846852627,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527843853786,
+            "changeTime": 1527843853786,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527845756892,
+            "changeTime": 1527845756892,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample__c\\Sample__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample__c\\Sample__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2069,
+            "modifiedTime": 1527846852577,
+            "changeTime": 1527846852577,
+            "contentHash": "c3ac35aac1b86362f1dedce9ea3dd26aa9999a0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts\\Sample__c-Sample Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts\\Sample__c-Sample Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2654,
+            "modifiedTime": 1527846852593,
+            "changeTime": 1527846852593,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\flexipages\\Test_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\flexipages\\Test_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1527846852593,
+            "changeTime": 1527846852593,
+            "contentHash": "3ffcf760b56b894d39ccf4c8b7e9ea4bc0aa8a15",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs\\Sample__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs\\Sample__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1527846852608,
+            "changeTime": 1527846852608,
+            "contentHash": "8f92a3af7f3640e1db0b71f01dd8e122d6a33d98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\applications\\Test.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\applications\\Test.app-meta.xml",
+            "isDirectory": false,
+            "size": 499,
+            "modifiedTime": 1527846852608,
+            "changeTime": 1527846852608,
+            "contentHash": "b9bfdd40e43bd667e832254b21d586da7891cee8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4971,
+            "modifiedTime": 1527847435819,
+            "changeTime": 1527847435819,
+            "contentHash": "fa1f9e3183db16f2f21abfb4716334c1c5348e83",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4971,
+            "modifiedTime": 1527847435819,
+            "changeTime": 1527847435819,
+            "contentHash": "fa1f9e3183db16f2f21abfb4716334c1c5348e83",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5309,
+            "modifiedTime": 1527847435819,
+            "changeTime": 1527847435819,
+            "contentHash": "baeb1e886e33d8321d68510e0142eccd2bc40d36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18572,
+            "modifiedTime": 1527847675803,
+            "changeTime": 1527847675803,
+            "contentHash": "b2447f07c9635d17af8c1cca4484de39d3d05669"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample__c",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527846852577,
+            "changeTime": 1527846852577,
+            "contentHash": "ffc2fe3407550a770e7f711500aefd9668882126",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527847435734,
+            "changeTime": 1527847435734,
+            "contentHash": "ac98ca27149221a2aeb16d8c06a2ed17bd8c8548",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527847435750,
+            "changeTime": 1527847435750,
+            "contentHash": "79c9cc1d0866cc5b39c2015efc3abff92c941958",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527846852593,
+            "changeTime": 1527846852593,
+            "contentHash": "dfc035ad2497a5efe06bfdefd70961a16ef17c39",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527847435750,
+            "changeTime": 1527847435750,
+            "contentHash": "a2020c952a348097399c15027501994d1c4cb8cb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527846852608,
+            "changeTime": 1527846852608,
+            "contentHash": "87276bb8f6b3375f2de1f8bfac94dc302b06d428",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527846852678,
+            "changeTime": 1527846852678,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\Sample2__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\Sample2__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2074,
+            "modifiedTime": 1527847435734,
+            "changeTime": 1527847435734,
+            "contentHash": "3d5e454344c9c9be99451f124072e27db065d7fb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\fields\\Testdata__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\fields\\Testdata__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1527847435734,
+            "changeTime": 1527847435734,
+            "contentHash": "a35040867d562719c59ffe70f8d87ac23dfebaab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts\\Sample2__c-Sample2 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\layouts\\Sample2__c-Sample2 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2179,
+            "modifiedTime": 1527847435750,
+            "changeTime": 1527847435750,
+            "contentHash": "2624ac815bfdfaef7a459d1b5afdbe7b79e133c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs\\Sample2__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\tabs\\Sample2__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1527847435750,
+            "changeTime": 1527847435750,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527847435734,
+            "changeTime": 1527847435734,
+            "contentHash": "2d35a823588b615d43f4eedbf7948583f87c5fab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\sandbala\\SmapleSFDXproj\\force-app\\main\\default\\objects\\Sample2__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527847435734,
+            "changeTime": 1527847435734,
+            "contentHash": "89d0c48582ac02b3c1d8d9ad9e3601a474a628da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
